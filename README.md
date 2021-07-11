@@ -3,3 +3,4 @@
 #
 ###Run docker-compose -f ./keycloak.yml up
 
+user login credentials: admin@tut/
